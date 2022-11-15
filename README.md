@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dangrant6
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning machine learning
 
